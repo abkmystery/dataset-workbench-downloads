@@ -4,4 +4,4 @@ Download the [Windows executable](https://github.com/abkmystery/dataset-workbenc
 
 Dataset Workbench prepares training and holdout data on your computer. See the [Workbench page](https://aidata.skasit.com/workbench) for supported inputs and the preparation steps.
 
-[Release notes and SHA-256 checksum](https://github.com/abkmystery/dataset-workbench-downloads/releases/tag/v0.2.0-preview.2)\n
+[Release notes and SHA-256 checksum](https://github.com/abkmystery/dataset-workbench-downloads/releases/tag/v0.2.0-preview.2)
